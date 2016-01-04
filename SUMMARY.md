@@ -2,7 +2,7 @@
 * [Getting started](content/1.md)    
     * [A moment on mindset](content/1.1.md)
     * [Setting up your environment](content/1.2.md)
-    * [TODO Code](content/1.3.md)
+    * [Code](content/1.3.md)
 * [HTML + CSS](content/2.md)
     * [HTML](content/2.1.md)
     * [CSS](content/2.2.md)
