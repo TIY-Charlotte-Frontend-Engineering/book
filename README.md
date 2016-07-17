@@ -1,4 +1,7 @@
 # Frontend engineering @ The Iron Yard
+
+*- Luke Segars, Charlotte*
+
 The goal of this book is to introduce fundamental concepts to new frontend engineering students. Most of the content of this book is pulled in from other places on the web, though there are some custom bits as well. More information on all of these topics is abundant online and we encourage you to dig deeper.
 
 The next few weeks will mark what will hopefully be a mind-blowing adventure that'll be both interesting and practical. In addition to learning the technical topics covered in this book, it's even more important that you begin to cultivate the mindset of an engineer and the desire to learn. Nothing will serve you better along this path in the future than those two things.
