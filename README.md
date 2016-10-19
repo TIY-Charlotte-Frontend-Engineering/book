@@ -17,7 +17,7 @@ There are a few important ideas to begin to study, each covered to some degree h
 
 3. **The command line.** Most people are used to graphical user interfaces (icons, drag-and-drop, etc). We'll be making heavy use of the command line in this course (very, *very* common in industry as well), and most people are significantly less familiar with command line when getting started.
 
-4. **Git and version control.** 
+4. **Git and version control.** Mind-blowing until you start wondering how you lived without it. This is how developers collaborate on projects and one of the tools we use to protect ourselves from our own mistakes.
 
 5. **Programming, a la Javascript.** We'll be dedicating boatloads of time to this in the course, but you'll help yourself if you get familiar with `if` statements, `for` loops, variables, data types, and other fundamental ideas of programming languages.
 
