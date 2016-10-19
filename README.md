@@ -1,4 +1,4 @@
-# Frontend engineering @ The Iron Yard
+# Charlotte frontend engineering @ The Iron Yard
 
 *- Luke Segars, Charlotte*
 
